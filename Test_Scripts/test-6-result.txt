@@ -1,0 +1,42 @@
+==================== PAC-6: FAILURE TYPE vs. GAP CORRELATION REPORT ====================
+
+Total S_n Anchors Analyzed: 50,000,000
+Total Law I Failures Found: 6,599,607
+Overall Average Prime Gap (g_n) in Range: 19.6490
+
+-------------------- Average Gap (g_n) by Composite Failure Type (k_min) --------------------
+Comp k_min   | Occurrence Count   | Avg Gap Size (g_n)   | vs Overall     
+----------------------------------------------------------------------
+9            | 2,845,622          | 21.2761              | +8.28%
+15           | 1,252,635          | 21.4030              | +8.93%
+25           | 740,891            | 18.6613              | -5.03%
+21           | 706,630            | 20.5422              | +4.55%
+27           | 391,464            | 20.1913              | +2.76%
+35           | 226,689            | 18.8354              | -4.14%
+33           | 181,120            | 20.9542              | +6.64%
+39           | 93,605             | 19.8827              | +1.19%
+49           | 46,978             | 18.5018              | -5.84%
+45           | 39,169             | 20.9817              | +6.78%
+51           | 22,550             | 20.0695              | +2.14%
+55           | 21,503             | 19.0031              | -3.29%
+57           | 11,174             | 20.6171              | +4.93%
+65           | 6,720              | 19.1015              | -2.79%
+63           | 4,982              | 21.4589              | +9.21%
+69           | 2,722              | 19.7436              | +0.48%
+77           | 1,705              | 18.2733              | -7.00%
+75           | 1,089              | 22.4628              | +14.32%
+81           | 635                | 20.3339              | +3.49%
+85           | 612                | 19.2222              | -2.17%
+----------------------------------------------------------------------
+Other k      | 1,112              | 19.3597              | -1.47%
+----------------------------------------------------------------------
+
+
+==================== FINAL CONCLUSION ====================
+
+  Analysis complete. Review the average gap sizes for each k_min type.
+  Look for statistically significant differences in the average gap
+  associated with the most common failure types (e.g., k=9 vs k=25).
+  Does the type of local failure (k_min) correlate with the spacing (g_n)
+  of the primes forming the anchor where the failure was detected?
+====================================================================

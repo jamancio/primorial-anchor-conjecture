@@ -1,0 +1,229 @@
+==================== PAC-3: RESIDUE CLASS ANALYSIS (MOD 30) REPORT ====================
+
+Total S_n Anchors Analyzed: 50,000,000
+Total Law I Failures (Composite k) Found: 6,599,607
+
+--- Analysis by S_n % 30 Residue Class ---
+
+Expected non-zero S_n % 30 residues (for n>3): [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28]
+(Note: Includes residue 0, e.g., 1+29=30, 7+23=30, 13+17=30)
+
+-------------------- S_n % 30 == 0 --------------------
+  Total Failures in this Class: 9,907
+  [PAC VERIFIED] No k divisible by 3 or 5 found.
+  Top 5 Composite k Values:
+    - k = 49   : 9,398      (94.86%)
+    - k = 77   : 432        (4.36%)
+    - k = 91   : 74         (0.75%)
+    - k = 121  : 2          (0.02%)
+    - k = 119  : 1          (0.01%)
+
+-------------------- S_n % 30 == 1 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 2 --------------------
+  Total Failures in this Class: 654,113
+  Top 5 Composite k Values:
+    - k = 9    : 342,499    (52.36%)
+    - k = 15   : 165,122    (25.24%)
+    - k = 21   : 62,001     (9.48%)
+    - k = 25   : 24,711     (3.78%)
+    - k = 27   : 21,406     (3.27%)
+    ...
+
+-------------------- S_n % 30 == 3 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 4 --------------------
+  Total Failures in this Class: 431,661
+  Top 5 Composite k Values:
+    - k = 9    : 157,989    (36.60%)
+    - k = 15   : 140,874    (32.64%)
+    - k = 21   : 34,831     (8.07%)
+    - k = 27   : 31,362     (7.27%)
+    - k = 25   : 22,864     (5.30%)
+    ...
+
+-------------------- S_n % 30 == 5 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 6 --------------------
+  Total Failures in this Class: 171,547
+  Top 5 Composite k Values:
+    - k = 25   : 117,427    (68.45%)
+    - k = 35   : 45,362     (26.44%)
+    - k = 49   : 3,526      (2.06%)
+    - k = 55   : 3,493      (2.04%)
+    - k = 65   : 1,297      (0.76%)
+    ...
+
+-------------------- S_n % 30 == 7 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 8 --------------------
+  Total Failures in this Class: 662,464
+  Top 5 Composite k Values:
+    - k = 9    : 305,388    (46.10%)
+    - k = 15   : 179,193    (27.05%)
+    - k = 21   : 81,916     (12.37%)
+    - k = 25   : 28,704     (4.33%)
+    - k = 27   : 24,539     (3.70%)
+    ...
+
+-------------------- S_n % 30 == 9 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 10 --------------------
+  Total Failures in this Class: 751,163
+  Top 5 Composite k Values:
+    - k = 9    : 484,710    (64.53%)
+    - k = 21   : 131,326    (17.48%)
+    - k = 27   : 78,598     (10.46%)
+    - k = 33   : 29,971     (3.99%)
+    - k = 39   : 15,815     (2.11%)
+    ...
+
+-------------------- S_n % 30 == 11 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 12 --------------------
+  Total Failures in this Class: 199,190
+  Top 5 Composite k Values:
+    - k = 25   : 147,451    (74.03%)
+    - k = 35   : 38,107     (19.13%)
+    - k = 49   : 8,055      (4.04%)
+    - k = 55   : 4,066      (2.04%)
+    - k = 65   : 1,177      (0.59%)
+    ...
+
+-------------------- S_n % 30 == 13 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 14 --------------------
+  Total Failures in this Class: 424,448
+  Top 5 Composite k Values:
+    - k = 15   : 141,242    (33.28%)
+    - k = 9    : 133,200    (31.38%)
+    - k = 21   : 42,827     (10.09%)
+    - k = 27   : 39,860     (9.39%)
+    - k = 25   : 28,964     (6.82%)
+    ...
+
+-------------------- S_n % 30 == 15 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 16 --------------------
+  Total Failures in this Class: 426,340
+  Top 5 Composite k Values:
+    - k = 15   : 141,391    (33.16%)
+    - k = 9    : 134,257    (31.49%)
+    - k = 21   : 42,922     (10.07%)
+    - k = 27   : 39,755     (9.32%)
+    - k = 25   : 29,344     (6.88%)
+    ...
+
+-------------------- S_n % 30 == 17 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 18 --------------------
+  Total Failures in this Class: 200,139
+  Top 5 Composite k Values:
+    - k = 25   : 147,880    (73.89%)
+    - k = 35   : 38,371     (19.17%)
+    - k = 49   : 8,115      (4.05%)
+    - k = 55   : 4,266      (2.13%)
+    - k = 65   : 1,157      (0.58%)
+    ...
+
+-------------------- S_n % 30 == 19 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 20 --------------------
+  Total Failures in this Class: 749,951
+  Top 5 Composite k Values:
+    - k = 9    : 484,645    (64.62%)
+    - k = 21   : 130,830    (17.45%)
+    - k = 27   : 78,544     (10.47%)
+    - k = 33   : 29,608     (3.95%)
+    - k = 39   : 15,666     (2.09%)
+    ...
+
+-------------------- S_n % 30 == 21 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 22 --------------------
+  Total Failures in this Class: 661,166
+  Top 5 Composite k Values:
+    - k = 9    : 303,492    (45.90%)
+    - k = 15   : 179,389    (27.13%)
+    - k = 21   : 82,090     (12.42%)
+    - k = 25   : 28,844     (4.36%)
+    - k = 27   : 24,678     (3.73%)
+    ...
+
+-------------------- S_n % 30 == 23 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 24 --------------------
+  Total Failures in this Class: 171,854
+  Top 5 Composite k Values:
+    - k = 25   : 116,966    (68.06%)
+    - k = 35   : 45,882     (26.70%)
+    - k = 49   : 3,602      (2.10%)
+    - k = 55   : 3,583      (2.08%)
+    - k = 65   : 1,365      (0.79%)
+    ...
+
+-------------------- S_n % 30 == 25 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 26 --------------------
+  Total Failures in this Class: 430,955
+  Top 5 Composite k Values:
+    - k = 9    : 156,724    (36.37%)
+    - k = 15   : 141,009    (32.72%)
+    - k = 21   : 35,191     (8.17%)
+    - k = 27   : 31,507     (7.31%)
+    - k = 25   : 22,726     (5.27%)
+    ...
+
+-------------------- S_n % 30 == 27 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+-------------------- S_n % 30 == 28 --------------------
+  Total Failures in this Class: 654,709
+  Top 5 Composite k Values:
+    - k = 9    : 342,718    (52.35%)
+    - k = 15   : 164,415    (25.11%)
+    - k = 21   : 62,696     (9.58%)
+    - k = 25   : 25,010     (3.82%)
+    - k = 27   : 21,215     (3.24%)
+    ...
+
+-------------------- S_n % 30 == 29 --------------------
+  Total Failures in this Class: 0
+  (This residue class is not expected for S_n where n > 3)
+
+
+==================== FINAL CONCLUSION ====================
+
+  Analysis complete. Review the distributions above.
+  Key points to check:
+  1. Does the S_n % 30 == 0 class confirm the PAC prediction?
+  2. Do other residue classes show significantly different
+     distributions of common k failures (e.g., 9, 15, 25)?
+====================================================================
